@@ -1,0 +1,9 @@
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\HelperSharp.dll
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.csprojResolveAssemblyReference.cache
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.dll
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\obj\Debug\GeneticAlgorithmLibrary.pdb
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\MyClassLibrary.dll
+C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmLibrary\bin\Debug\MyClassLibrary.pdb
