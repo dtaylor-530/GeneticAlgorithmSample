@@ -91,6 +91,7 @@
       <DependentUpon>LinesEditor.xaml</DependentUpon>
     </Compile>
     <Compile Include="LinesEditor\LineViewModel.cs" />
+    <Compile Include="Models\GeneticAlgorithmWrapper.cs" />
     <Compile Include="UserControls\PropertyBoxControl.xaml.cs">
       <DependentUpon>PropertyBoxControl.xaml</DependentUpon>
     </Compile>

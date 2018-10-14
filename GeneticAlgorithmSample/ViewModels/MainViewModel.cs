@@ -33,6 +33,9 @@ namespace GeneticAlgorithmSample.ViewModels
         }
 
 
+
+
+
         public MainViewModel()
         {
 
@@ -49,6 +52,10 @@ namespace GeneticAlgorithmSample.ViewModels
 
             // Lines.(x => { x.PropertyChanged("IsSelected") += dffsd);
         }
+
+
+
+
 
 
 

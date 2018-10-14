@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using System;
 using GeneticSharp.Domain;
 using GeneticSharp.Domain.Chromosomes;
 using GeneticSharp.Domain.Crossovers;
@@ -13,7 +12,7 @@ using GeneticSharp.Domain.Populations;
 using GeneticSharp.Domain.Selections;
 using GeneticSharp.Domain.Terminations;
 
-namespace GeneticAlgorithmSample.Models
+namespace GeneticAlgorithmSample
 {
 
 
@@ -32,21 +31,34 @@ namespace GeneticAlgorithmSample.Models
 
         //}
 
-        public static FloatingPointChromosome defaultChromosome(double maxWidth, double maxHeight)
+        public static FloatingPointChromosome CreateIntChromosone(Tuple<double,double>[] minmax)
         {
             //     public FloatingPointChromosome(double[] minValue, double[] maxValue, int[] totalBits, int[] fractionBits);
 
             var chromosome = new FloatingPointChromosome(
-            minValue: new double[] { 0, 0, 0, 0 },
-            maxValue: new double[] { maxWidth, maxHeight, maxWidth, maxHeight },
-            totalBits: new int[] { 10, 10, 10, 10 },
-            fractionBits: new int[] { 0, 0, 0, 0 });
+            minValue: minmax.Select(_ => _.Item1).ToArray(),
+            maxValue: minmax.Select(_ => _.Item2).ToArray(),
+            totalBits: minmax.Select(_ => 10).ToArray(),
+            fractionBits: minmax.Select(_ => 0).ToArray());
 
             return chromosome;
 
         }
 
 
+        public static FloatingPointChromosome CreateFloatingChromosone(Tuple<double, double>[] minmax)
+        {
+            //     public FloatingPointChromosome(double[] minValue, double[] maxValue, int[] totalBits, int[] fractionBits);
+
+            var chromosome = new FloatingPointChromosome(
+            minValue: minmax.Select(_ => _.Item1).ToArray(),
+            maxValue: minmax.Select(_ => _.Item2).ToArray(),
+            totalBits: minmax.Select(_ => 20).ToArray(),
+            fractionBits: minmax.Select(_ => 10).ToArray());
+
+            return chromosome;
+
+        }
 
 
     }
@@ -54,26 +66,22 @@ namespace GeneticAlgorithmSample.Models
 
 
 
-    partial class GAFactory
+    public class GAFactory
     {
 
-        public static GeneticSharp.Domain.GeneticAlgorithm DefaultGeneticAlgorithm(double maxh=200,double maxw=200)
+        public static GeneticSharp.Domain.GeneticAlgorithm DefaultGeneticAlgorithm(Func<double[],double> func,Tuple<double,double>[] minmax )
         {
 
 
-            var population = new Population(20, 40, chromosome.defaultChromosome(maxh, maxw));
+            var population = new Population(20, 40, chromosome.CreateIntChromosone(minmax));
 
             var fitness = new FuncFitness((c) =>
             {
                 var fc = c as FloatingPointChromosome;
 
                 var values = fc.ToFloatingPoints();
-                var x1 = values[0];
-                var y1 = values[1];
-                var x2 = values[2];
-                var y2 = values[3];
-
-                return Math.Sqrt(Math.Pow(x2 - x1, 2) + Math.Pow(y2 - y1, 2));
+                return func(values);
+            
             });
 
             var selection = new EliteSelection();
@@ -103,75 +111,7 @@ namespace GeneticAlgorithmSample.Models
 
 
 
-    public class GeneticAlgorithm
-    {
-
-        public event Action<System.Windows.Point, System.Windows.Point> NotifyOfImprovement;
-
-
-        private GeneticSharp.Domain.GeneticAlgorithm ga;
-        public double latestFitness { get; private set; }
-
-        public int GenerationNumber
-        {
-            get
-            {
-                return ga.GenerationsNumber;
-            }
-        }
-
-
-        public GeneticAlgorithm(double maxh,double maxw)
-        {
-            latestFitness = 0.0;
-            ga = GAFactory.DefaultGeneticAlgorithm(maxh,maxw);
-
-            ga.GenerationRan += NewGeneration;
-
-            NotifyOfImprovement += GeneticAlgorithm_NotifyOfImprovement;
-        }
-
-
-        // start the algorithm running/learning
-        public void Run()
-        {
-            ga.Start();
-
-
-        }
-
-        // notify subsribers of improvement to algorithm
-        private void GeneticAlgorithm_NotifyOfImprovement(System.Windows.Point arg1, System.Windows.Point arg2)
-        {
-            Console.WriteLine(
-                            "Generation {0}: ({1},{2}),({3},{4}) = {5}",
-                            ga.GenerationsNumber, arg1.X, arg1.Y, arg2.X, arg2.Y, latestFitness);
-        }
-
-        // the procreation of new chromosomes
-        private void NewGeneration(object sender, EventArgs e)
-        {
-            var bestChromosome = (sender as GeneticSharp.Domain.GeneticAlgorithm).BestChromosome as FloatingPointChromosome;
-            var bestFitness = bestChromosome.Fitness.Value;
-
-            if (bestFitness != latestFitness)
-            {
-                latestFitness = bestFitness;
-                var phenotype = bestChromosome.ToFloatingPoints();
-
-                var p1 = new System.Windows.Point(phenotype[0], phenotype[1]);
-                var p2 = new System.Windows.Point(phenotype[2], phenotype[3]);
-
-                NotifyOfImprovement(p1, p2);
-
-            }
-
-        }
-
-
-
-
-    }
+  
 
 
 }

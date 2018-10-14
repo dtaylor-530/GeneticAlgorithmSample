@@ -24,7 +24,7 @@ namespace GeneticAlgorithmSample
         //public ObservableCollection<WPFSamples.Samples.LinesEditor.LineViewModel> Lines { get; set; }
 
         public ViewModels.MainViewModel MainViewModel { get; set; }
-        public Models.GeneticAlgorithm GeneticAlgorithm { get; set; }
+        public GeneticAlgorithmWrapper GeneticAlgorithm { get; set; }
 
         public MainWindow()
         {
@@ -50,7 +50,7 @@ namespace GeneticAlgorithmSample
 
         private void Start_Click(object sender, RoutedEventArgs e)
         {
-            GeneticAlgorithm = new Models.GeneticAlgorithm(ViewBox1.lst.ActualHeight, ViewBox1.lst.ActualWidth);
+            GeneticAlgorithm = new GeneticAlgorithmWrapper(ViewBox1.lst.ActualHeight, ViewBox1.lst.ActualWidth);
             GeneticAlgorithm.NotifyOfImprovement += GeneticAlgorithm_NotifyOfImprovement;
             GeneticAlgorithm.Run();
 
@@ -58,7 +58,7 @@ namespace GeneticAlgorithmSample
 
         private void GeneticAlgorithm_NotifyOfImprovement(Point arg1, Point arg2)
         {
-
+    
 
             MainViewModel.Lines.Add(new WPFSamples.Samples.LinesEditor.LineViewModel()
             {

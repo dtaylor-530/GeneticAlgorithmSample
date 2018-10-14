@@ -62,3 +62,36 @@ C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples
 C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.g.cs
 C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\PropertyBoxControl.baml
 C:\Users\rolyat4\Documents\Visual Studio 2015\Projects\Genetic Algorithm Samples And Projects\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.baml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.exe.config
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.exe
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.pdb
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Domain.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Extensions.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Threading.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\HelperSharp.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\NCalc.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\SmartThreadPool.dll
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Threading.pdb
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\MathNet.Numerics.xml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\SmartThreadPool.pdb
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csprojResolveAssemblyReference.cache
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\LinesEditor\LinesEditor.baml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\LinesEditor\LinesEditor.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\MainWindow.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\PropertyBoxControl.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\App.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample_MarkupCompile.cache
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample_MarkupCompile.lref
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\MainWindow.baml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\PropertyBoxControl.baml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.baml
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.g.resources
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.Properties.Resources.resources
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.GenerateResource.Cache
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.CoreCompileInputs.cache
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.exe
+C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.pdb
