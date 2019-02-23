@@ -95,3 +95,38 @@ C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\
 C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.CoreCompileInputs.cache
 C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.exe
 C:\Users\rolyat4\Documents\GitHub\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.pdb
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.exe.config
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.exe
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticAlgorithmSample.pdb
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Domain.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Extensions.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Framework.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Threading.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\HelperSharp.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\MathNet.Numerics.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\NCalc.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\SmartThreadPool.dll
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Framework.xml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\GeneticSharp.Infrastructure.Threading.pdb
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\MathNet.Numerics.xml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\bin\Debug\SmartThreadPool.pdb
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csprojAssemblyReference.cache
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\LinesEditor\LinesEditor.baml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\LinesEditor\LinesEditor.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\MainWindow.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\PropertyBoxControl.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\App.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample_MarkupCompile.cache
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample_MarkupCompile.lref
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\MainWindow.baml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\PropertyBoxControl.baml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\UserControls\ViewBoxUserControl.baml
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.g.resources
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.Properties.Resources.resources
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.GenerateResource.cache
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.CoreCompileInputs.cache
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.csproj.CopyComplete
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.exe
+E:\rolyat4\Documents\Visual Studio 2015\Projects\MasterProject\GeneticAlgorithmSample\GeneticAlgorithmSample\obj\Debug\GeneticAlgorithmSample.pdb
